@@ -6,4 +6,25 @@
     <string name="HotelName">Steigenberger Makadi</string>
     <string name="grade">5 Превосходно</string>
     <string name="hotel">Отель</string>
+    <string name="vip_18">Отель VIP-класса с собственном гольф полями.Высокий уровень сервиса.Рекомендуем для респектабельно отдыха. Отель принимает гостей от 18-лет</string>
+    <string name="_3">3-я линия</string>
+    <string name="wi_fi">Платный Wi-Fi в фойе</string>
+    <string name="_1">1 км до пляжа</string>
+    <string name="_30">30 км до аэропорта</string>
+    <string name="aboutHotel">Об отеле</string>
+    <string name="aboutHotel2">Удобства</string>
+    <string name="mostNeeded">Самое необходимое</string>
+    <string name="whatInPrice">Что включено</string>
+    <string name="whatAbroadThePrice">Что не включено</string>
+    <string name="stroke">________________________________________________________</string>
+    <string name="chooseRoom">К выбору номера</string>
+    <string name="steigenberger_makadi">Steigenberger Makadi</string>
+    <string name="info">Стандартный с видом на бассейн или сад</string>
+    <string name="infoNum">Стандартный с видом на бассейн или сад</string>
+    <string name="AllIn">Все включено</string>
+    <string name="Condit">Кондиционер</string>
+    <string name="Price2">186 600 ₽</string>
+    <string name="_7">за 7 ночей с перелётом</string>
+    <string name="ChooseRoom">Выбрать номер</string>
+
 </resources>
